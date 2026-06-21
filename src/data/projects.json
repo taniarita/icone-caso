@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Pay Track",
+        "description": "App de gerenciamento de despesas.",
+        "techs": [
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "shadcn/ui"
+        ],
+        "githubUrl": "https://github.com/taniarita/pay-track",
+        "featured": true
+    },
+    {
+        "name": "Ícone Caso",
+        "description": "Portifólio que reúne todas as minhas produções. Esse aqui meishmu hehehe",
+        "techs": [
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "shadcn/ui"
+        ],
+        "githubUrl": "https://github.com/taniarita/icone-caso",
+        "featured": false
+    }
+]
