@@ -1,7 +1,7 @@
 import { getAllProjects } from "@/lib/projects"
 import { ProjectCard } from "@/components/ProjectCard"
 
-export default function ProjetosPage() {
+export default function ProjectsPage() {
   const projects = getAllProjects()
 
   return (
