@@ -1,5 +1,9 @@
 import Link from "next/link"
 
+/**
+ * Barra de navegação do site (chrome). Renderizada uma vez no layout raiz,
+ * aparece em todas as páginas. Contém apenas navegação INTERNA (next/link).
+ */
 export function NavBar() {
   return (
     <nav className="border-b">
